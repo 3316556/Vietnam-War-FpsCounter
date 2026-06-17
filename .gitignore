@@ -1,0 +1,10 @@
+﻿*.log
+*.tmp
+*.bak
+*.pdb
+*.deps.json
+UserData/
+MelonLoader/
+Vietnam War_Data/
+DecompiledSource/
+quicksource/
