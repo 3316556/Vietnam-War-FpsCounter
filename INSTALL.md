@@ -12,16 +12,16 @@ This is a drag-and-drop MelonLoader mod.
 
 Correct result:
 
-`	ext
+~~~text
 VietnamWar\Mods\FpsCounter.dll
-`
+~~~
 
 ## Uninstall
 
 Delete this file:
 
-`	ext
+~~~text
 VietnamWar\Mods\FpsCounter.dll
-`
+~~~
 
 Do not delete UserData\MelonPreferences.cfg unless you intentionally want to reset settings for all MelonLoader mods.
