@@ -4,7 +4,7 @@ This is a drag-and-drop MelonLoader mod.
 
 ## Player Install
 
-1. Make sure MelonLoader is installed for *Vietnam War*.
+1. Make sure MelonLoader 0.7.2 (Open-Beta) is installed for *Vietnam War* (Unity 2020.3.30f1, Game Version 0.1).
 2. Open the game folder: SteamLibrary\steamapps\common\VietnamWar.
 3. Drag the included Mods folder into the game folder.
 4. Let Windows merge folders if prompted.
