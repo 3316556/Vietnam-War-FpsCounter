@@ -11,5 +11,3 @@ Preference file location:
 ~~~text
 VietnamWar\UserData\MelonPreferences.cfg
 ~~~
-
-Do not ship a pre-filled MelonPreferences.cfg to users; it can overwrite settings from other mods.
